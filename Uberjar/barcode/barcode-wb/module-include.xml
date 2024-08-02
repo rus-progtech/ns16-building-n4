@@ -1,0 +1,4 @@
+<types>
+  <!--com.niagarasummit.barcode.ui-->
+  <type class="com.niagarasummit.barcode.ui.BBarcodeGenerator" name="BarcodeGenerator"/>
+</types>

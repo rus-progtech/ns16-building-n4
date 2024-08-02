@@ -1,0 +1,8 @@
+<types>
+  <type name="BarcodeGeneratorUx" class="com.niagarasummit.barcode.ux.BBarcodeGeneratorUx">
+    <agent>
+      <on type="barcode:BarcodeNumeric" />
+    </agent>
+  </type>
+  <type name="BarcodeJsBuild" class="com.niagarasummit.barcode.ux.BBarcodeJsBuild" />
+</types>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\ns16BuildingN4\SecurityManager\barcode\barcode-rt" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="barcode.barcode-rt.moduleTest" />
+        <module name="barcode.barcode-rt.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\ns16BuildingN4\SecurityManager\barcode\barcode-ux" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="barcode.barcode-ux.moduleTest" />
+        <module name="barcode.barcode-ux.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\ns16BuildingN4\SecurityManager\barcode\barcode-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="barcode.barcode-wb.main" />
+        <module name="barcode.barcode-wb.moduleTest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>

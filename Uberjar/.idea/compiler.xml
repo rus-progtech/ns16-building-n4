@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="niagara.module.root" value="C:\Niagara\dev\ns16BuildingN4\Uberjar\barcode\barcode-wb" />
+        <option name="niagara.test.roots" value="srcTest=java" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../Niagara-4.13.0.186/bin/ext/nre.jar" />
+        </processorPath>
+        <module name="barcode.barcode-wb.main" />
+        <module name="barcode.barcode-wb.moduleTest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="barcode.barcode-rt.main" target="8" />
+      <module name="barcode.barcode-rt.moduleTest" target="8" />
+      <module name="barcode.barcode-rt.test" target="8" />
+      <module name="barcode.barcode-ux.main" target="8" />
+      <module name="barcode.barcode-ux.moduleTest" target="8" />
+      <module name="barcode.barcode-ux.test" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
